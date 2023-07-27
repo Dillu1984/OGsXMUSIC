@@ -1,13 +1,13 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @Og_Dakku & @Og_Baghi
 
-### Join @BikashGadgetsTech For More Update
+### Join @PanjabXMusic For More Update
 
-### Join @AdityaCheats For Hack
+### Join @ogsupportchatt For Hack
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### Join Our Chats @PanjabXMusic & @ogsupportchatt 
 
 
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [@og_dakku](https://t.me/og_dakku)
 
 
 ### ABOUT THIS BOT
@@ -24,13 +24,13 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[Dillu](https://t.me/Og_dakku)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/ogsupportchatt)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/PanjabXMusic)
 
 ## YouTube 📺
 
@@ -70,10 +70,10 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Dillu/OG ASTAAD](https://graph.org/file/0eab6ba8b0302de6507fc.jpg)](https://t.me/OG_DAKKU)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [ASTAAD](https://t.me/OG_BAGHI)
 
 ## 💕 Special Thanks
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [ASTAAD](https://t.me/OG_BAGHI) & [DAKKU](https://t.me/OG_DAKKU)
